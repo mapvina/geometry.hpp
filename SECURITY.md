@@ -1,0 +1,1 @@
+Refer to the security policy of MapVina Native: https://github.com/mapvina/mapvina-native/blob/main/SECURITY.md
